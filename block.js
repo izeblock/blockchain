@@ -10,12 +10,11 @@ class Block{
     }
 
     toString(){ // für Debugging-Zwecke
-        return ` Block -
-            Timestamp:  ${this.timestamp}
-            Last Hash:  ${this.lastHash}
-            Hash:       ${this.hash}
-            Data:       ${this.data}
-        `
+        return `Block -
+        Timestamp:  ${this.timestamp}
+        Last Hash:  ${this.lastHash}
+        Hash:       ${this.hash}
+        Data:       ${this.data}`
     }
 }
 
