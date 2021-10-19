@@ -1,4 +1,4 @@
-// call: npm rund dev-test
+// call: npm run dev-test
 
 // Import
 const Block = require("./block");
