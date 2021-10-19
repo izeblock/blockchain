@@ -14,3 +14,5 @@ class Blockchain{
         this.chain.push(block);
     }
 }
+
+module.exports = Blockchain;
